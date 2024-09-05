@@ -17,15 +17,10 @@ public class VerificaString {
             }
         }
         if(contemA) {
-            possuiLetraA(contemA);
-            quantasletrasA(cont);
+            possuiLetraA(contemA, cont);
         }
     }
-    static void possuiLetraA(boolean contemA){
-        System.out.println("Possui a letra a!");
-    }
-
-    static void quantasletrasA(int contador){
-        System.out.println("A letra a repete " + contador + " vezes.\n");
+    static void possuiLetraA(boolean contemA, int contador){
+        System.out.println("Possui a letra a!\nVezes em que se repete: " + contador);
     }
 }
