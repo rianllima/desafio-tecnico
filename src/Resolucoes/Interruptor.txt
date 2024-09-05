@@ -1,0 +1,4 @@
+1° Ligar dois interruptores e ir até uma das salas.
+2° Verificar se está ligada ou desligada.
+3° Voltar a sala dos interruptores e desligar um interruptor.
+4° Ir em outra sala diferente do primeiro passo.
